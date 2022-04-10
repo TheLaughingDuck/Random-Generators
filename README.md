@@ -1,2 +1,2 @@
 # Random-Generators
-Various Random Generators. Includes Markov chains, and a password generator.
+Various Random Generators. Just a simple password generator for now.
